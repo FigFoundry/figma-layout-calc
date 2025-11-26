@@ -1,3 +1,5 @@
+![Layout Calc Preview](/assets/calc-dark.png)
+
 # Layout Calculator
 Simplify layout calculations in Figma. Generate layouts instantly.
 
